@@ -4,7 +4,7 @@ Farmers guide is a platform that provides farmers with information about viabili
 
 ## Mission Statement:
 
-Providing a platform that allows farmers to get information about farming activities, and distribute information that affect the farmers.
+Bridging the gap between farmers and climate data as well as delivering agricultural Intelligence to local communities
 
 ## What a Mission Statement is:
 
