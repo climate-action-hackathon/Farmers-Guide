@@ -1,24 +1,23 @@
 # Farmers-Guide
 
-Farmers guide platform that provides farmers with information about viability of current planting season for selected crops.
+Farmers guide is a platform that provides farmers with information about viability of current planting seasons for selected crops.
 
 ## Mission Statement:
 
-Providing a platform that allows farmer to get information about farming activities, and distribute information that affect the farmers.
+Providing a platform that allows farmers to get information about farming activities, and distribute information that affect the farmers.
 
 ## What a Mission Statement is:
 
-A concise summary of the aims of a project.
+A concise summary of the aims and goals of a project.
 
 ## The Problem We are Trying to Solve:
 
-Due to the changing climating conditions, there has been a shift in the planting seasons and patterns. This has rendered traditional methods of estimating start of season untenable.
-This has cause farmers, sometimes, to miss out on planting season. By providing farmers with information about when to plant to maximize on projected rainfall amounts,
-we hope to empower the farmers to be more productive.
+Due to the changing climatic conditions, there has been a shift in the planting seasons and patterns. This has rendered traditional methods of estimating start of season untenable. This has caused farmers, sometimes, to miss out on planting seasons.
 
-Bridging the gap between fragmented datasets and local farmers
+We hope to empower farmers to be more productive by providing them with precise information on when to exercise their various farming activities maximizing on projected climate conditions.
+
+Bridging the gap between fragmented datasets and local farmers.
 
 ## Use Case:
 
-A farmer wants to know the viability of planting certain crop at a certain location.
-
+A farmer wants to know the viability of planting certain crop at a certain location at a certain time.
