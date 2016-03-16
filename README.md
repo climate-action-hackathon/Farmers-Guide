@@ -10,7 +10,7 @@ Providing a platform that allows farmers to get information about farming activi
 
 A concise summary of the aims and goals of a project.
 
-## The Problem We are Trying to Solve:
+## Problem Statement:
 
 Due to the changing climatic conditions, there has been a shift in the planting seasons and patterns. This has rendered traditional methods of estimating start of season untenable. This has caused farmers, sometimes, to miss out on planting seasons.
 
